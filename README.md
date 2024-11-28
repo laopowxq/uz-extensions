@@ -14,7 +14,7 @@
 
 # 订阅
 
-https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/uzAio.json
+https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/uzAio.json
 
 # 添加方式
 
