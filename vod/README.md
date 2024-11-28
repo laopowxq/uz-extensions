@@ -21,7 +21,7 @@
 
 # 订阅
 
-https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/vod.json
+https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/vod.json
 
 # 添加方式
 
