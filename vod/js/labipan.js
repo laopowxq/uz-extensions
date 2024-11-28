@@ -37,6 +37,11 @@ class Labipan extends WebApiBase {
         type_name: '4k',
         hasSubclass: false,
       },
+       {
+        type_id: '29',
+        type_name: '臻彩',
+        hasSubclass: false,
+      },
       {
         type_id: '5',
         type_name: '短剧',
