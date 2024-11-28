@@ -18,7 +18,7 @@
 
 |    名称    |                                                      订阅链接                                                      |
 |:--------:| :----------------------------------------------------------------------------------------------------------------: |
-| UC、夸克、天翼 | https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/panTools/panTools.json |
+| UC、夸克、天翼 | https://ghp.ci/https://raw.githubusercontent.com/laopowxq/uz-extensions/refs/heads/master/panTools/panTools.json |
 
 # 添加方式
 
