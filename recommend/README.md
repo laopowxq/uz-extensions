@@ -17,7 +17,7 @@
 
 |       名称       |   订阅链接    |
 | :--------------: | :------: |
-| 豆瓣推荐筛选 | https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/recommend/douban.json |
+| 豆瓣推荐筛选 | https://ghp.ci/https://raw.githubusercontent.com/proversion2024/laopowxq/refs/heads/master/recommend/douban.json |
 
 
 
