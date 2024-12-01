@@ -3,7 +3,7 @@
         {
             "name": "豆瓣推荐 影视推荐",
             "codeID": "f2GRQWVkMifmWtoE",
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/recommend/js/douban.txt",
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/recommend/js/douban.txt",
             "type": 200
         }
     ],
@@ -20,7 +20,7 @@
     "vod": [
         {
             "name": "pv雷鲸",
-            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/leijing.txt",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/leijing.txt",
             "codeID": "GgryhjYVgQMDUw4f",
             "instance": "leiJing20241126",
             "webSite": "https://www.leijing.xyz",
@@ -30,7 +30,7 @@
         },
         {
             "name": "pv天逸搜",
-            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/tianyiso.txt",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/tianyiso.txt",
             "codeID": "DU9z425w42hk9B8l",
             "instance": "tianyiso20241129",
             "webSite": "https://www.tianyiso.com",
@@ -40,7 +40,7 @@
         },
         {
             "name": "pv趣盘搜",
-            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/funletu.txt",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/funletu.txt",
             "codeID": "LO5aQSJYBZLrRD1g",
             "instance": "funletu20241124",
             "webSite": "https://pan.funletu.com",
@@ -49,8 +49,18 @@
             "type": 100
         },
         {
+            "name": "pv小云搜索",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/yunso.txt",
+            "codeID": "IHVxV3xGj0S1LIC7",
+            "instance": "yunso20241124",
+            "webSite": "https://www.yunso.net",
+            "remark": "网盘搜索",
+            "version": "2",
+            "type": 100
+        },
+        {
             "name": "pv蜡笔盘",
-            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/labipan.js",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/labipan.js",
             "instance": "labipan20241028",
             "webSite": "http://labipan.com",
             "remark": "网盘",
@@ -58,7 +68,7 @@
         },
         {
             "name": "pv木偶哥哥",
-            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/mogg.js",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/mogg.js",
             "instance": "mogg20241023",
             "webSite": "http://www.mogg.top",
             "remark": "网盘",
@@ -66,7 +76,7 @@
         },
         {
             "name": "pv玩偶哥哥",
-            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/wogg.js",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/wogg.js",
             "instance": "wogg20240929",
             "webSite": "https://www.wogg.net",
             "remark": "网盘",
@@ -74,7 +84,7 @@
         },
         {
             "name": "pv⚡️至臻网盘",
-            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/zhizhen.js",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/zhizhen.js",
             "instance": "zhizhen20241029",
             "webSite": "https://mihdr.top/",
             "remark": "至臻网盘",
@@ -82,7 +92,7 @@
         },
         {
             "name": "pv🤠多多影音",
-            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/duopan.js",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/duopan.js",
             "instance": "duopan20241030",
             "webSite": "https://tv.yydsys.top/",
             "remark": "多多网盘",
@@ -90,7 +100,7 @@
         },
         {
             "name": "pv🐲欧歌资源",
-            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/ougepan.js",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/ougepan.js",
             "instance": "ougepan20241030",
             "webSite": "https://woog.nxog.eu.org/",
             "remark": "欧歌网盘",
