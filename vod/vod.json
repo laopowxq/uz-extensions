@@ -10,6 +10,16 @@
     "type": 100
   },
   {
+    "name": "pv天逸搜",
+    "api": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/tianyiso.txt",
+    "codeID": "DU9z425w42hk9B8l",
+    "instance": "tianyiso20241129",
+    "webSite": "https://www.tianyiso.com",
+    "remark": "仅搜索",
+    "version": "3",
+    "type": 100
+  },
+  {
     "name": "pv趣盘搜",
     "api": "https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/funletu.txt",
     "codeID": "S6qCF6SkfyxPQGFa",
