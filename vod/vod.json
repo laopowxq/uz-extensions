@@ -1,7 +1,7 @@
 [
   {
     "name": "pv嗷呜动漫",
-    "codeID": "Nj60HCHBZiklDx5a",
+    "codeID": "eAQ6wWGqnUGfWDE0",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/moedm.txt",
     "webSite": "https://www.moedm.net",
     "remark": "嗷呜动漫",
@@ -10,7 +10,7 @@
     "isLock": false,
     "blockClassList": [""],
     "env": "",
-    "version": 3,
+    "version": 4,
     "type": 101
   },
   {
