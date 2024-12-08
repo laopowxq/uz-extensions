@@ -1,5 +1,19 @@
 [
   {
+    "name": "pv嗷呜动漫",
+    "codeID": "b1Gh4e3w9XRRdSR4",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/moedm.txt",
+    "webSite": "https://www.moedm.net",
+    "remark": "嗷呜动漫",
+    "noHistory": false,
+    "userAgent": "",
+    "isLock": false,
+    "blockClassList": [""],
+    "env": "",
+    "version": 1,
+    "type": 101
+  },
+  {
     "name": "pv雷鲸",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/leijing.txt",
     "codeID": "GgryhjYVgQMDUw4f",
