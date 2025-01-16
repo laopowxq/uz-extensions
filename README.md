@@ -24,6 +24,9 @@ https://ghp.ci/https://raw.githubusercontent.com/proversion2024/uz-extensions/re
 uz影视 -> 设置 -> 数据管理 -> 右上角 + -> 输入链接 -> 确定
 
 # 更新记录
+### 2025-01-16
+1. 新增PanSearch
+   
 ### 2024-12-08
 1. 新增嗷呜动漫
 
