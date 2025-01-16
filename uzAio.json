@@ -19,20 +19,6 @@
     ],
     "vod": [
         {
-            "name": "pv嗷呜动漫",
-            "codeID": "RYTQwxcihTqErWnj",
-            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/moedm.txt",
-            "webSite": "https://www.moedm.net",
-            "remark": "嗷呜动漫",
-            "noHistory": false,
-            "userAgent": "",
-            "isLock": false,
-            "blockClassList": [""],
-            "env": "",
-            "version": 6,
-            "type": 101
-        },
-        {
             "name": "pv雷鲸",
             "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/leijing.txt",
             "codeID": "GgryhjYVgQMDUw4f",
@@ -42,6 +28,20 @@
             "version": "4",
             "type": 100
         },
+        {
+    "name": "PanSearch",
+    "codeID": "UM9WK6x3sPm3mbUgJB2dJNs59vTyNynm",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/pansearch.txt",
+    "webSite": "https://www.pansearch.me",
+    "remark": "仅搜索",
+    "noHistory": false,
+    "userAgent": "",
+    "isLock": false,
+    "blockClassList": ["广告"],
+    "env": "",
+    "version": 1,
+    "type": 101
+  },
         {
             "name": "pv天逸搜",
             "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/tianyiso.txt",
